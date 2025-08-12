@@ -31,23 +31,6 @@ Library – Base class containing book list and related operations.
 
 User – Inherits from Library, manages user-specific details and borrowing/returning actions.
 
-Core Concepts Used:
-
-Inheritance and Polymorphism
-
-Encapsulation
-
-Static Data Members
-
-Virtual Functions
-
-Libraries Used:
-
-<iostream> for input/output
-
-<string> for handling text
-
-<vector> for dynamic storage of books and users
 
 📂 BookManagementSystem
  ├── book.h          # Class definitions for Book, Library, and User
