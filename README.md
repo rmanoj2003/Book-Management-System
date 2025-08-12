@@ -48,3 +48,10 @@ Libraries Used:
 <string> for handling text
 
 <vector> for dynamic storage of books and users
+
+📂 BookManagementSystem
+ ├── book.h          # Class definitions for Book, Library, and User
+ ├── Bookimp.cpp     # Implementation of class member functions
+ ├── Bookapp.cpp     # Main application logic and menu handling
+ └── README.md       # Project documentation
+
